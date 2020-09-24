@@ -3758,6 +3758,9 @@ table .header-row {
     padding: 20px;
 }
 }@media (max-width:39.9375em) {
+    .custom-padding{
+        padding: 0 1rem;
+    }
     .element-mobile {
     display: block;
 }
