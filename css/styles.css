@@ -3676,6 +3676,11 @@ table .header-row {
     background-color: #fdfce7;
     color: #7a7656;
     padding-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 }
 #about .page-section--intro h2 {
     font-weight: 300;
